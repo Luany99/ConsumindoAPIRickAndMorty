@@ -1,0 +1,95 @@
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ruan9\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ruan9\source\repos\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\ConnBanco\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ruan9\Meusprojetosluany\APIRICKANDMORTY\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
